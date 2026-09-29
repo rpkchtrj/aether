@@ -16,7 +16,10 @@
 coverage.*
 *.coverprofile
 profile.cov
-
+.claude
+docs/WORK_LOG.md
+docs/WORKFLOW_STATE.md
+CLAUDE.md
 # Dependency directories (remove the comment below to include it)
 # vendor/
 
